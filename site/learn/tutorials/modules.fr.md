@@ -43,7 +43,7 @@ object peut être une variable, un type ou tout autre chose définie au
 sein du module.
 
 Les librairies (bibliothèques), notament la bibliothèque standard,
-fournit un certain nombre de modules. Par exemple, `List.iter`
+fournissent un certain nombre de modules. Par exemple, `List.iter`
 désigne la fonction `iter` définie au sein du module `List`.
 Si jamais on souhaite utiliser de façon intensive un module, on peut
 désirer se passer de l'appel de son nom; il suffit pour cela d'utiliser
